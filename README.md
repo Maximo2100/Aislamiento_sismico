@@ -1,2 +1,2 @@
-# Aislamiento_sismico
+# Aislamiento sismico
 Curso de capacitación de estructuras aisladas
